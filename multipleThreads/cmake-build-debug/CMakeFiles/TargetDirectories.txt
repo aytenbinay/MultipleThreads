@@ -1,0 +1,3 @@
+/home/ayten/CLionProjects/multipleThreads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ayten/CLionProjects/multipleThreads/cmake-build-debug/CMakeFiles/multipleThreads.dir
+/home/ayten/CLionProjects/multipleThreads/cmake-build-debug/CMakeFiles/edit_cache.dir
